@@ -87,6 +87,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
+    "@inlet/react-pixi": "^5.0.3",
     "array-flat-polyfill": "^1.0.1",
     "classnames": "^2.2.6",
     "connected-react-router": "^6.8.0",
@@ -96,6 +97,7 @@
     "gui-library": "git+https://gitlab.com/oliasoft-open-source/react-ui-library.git#163",
     "history": "^4.7.2",
     "lodash": "^4.17.15",
+    "pixi.js": "^5.3.3",
     "prop-types": "^15.7.2",
     "react": "^16.13",
     "react-addons-shallow-compare": "^15.3.1",
